@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+*.cover
+*.log
+*.sql
+*.sqlite3
+
+# Migrations (optional, if you don’t want to commit them)
+# */migrations/
+
+# Node modules (if using Tailwind/Vite/etc.)
+node_modules/
+dist/
