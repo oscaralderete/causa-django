@@ -22,4 +22,7 @@ pip install jinja2 django-htmx django-tailwind django-vite django-ninja
 ---
 
 ## 🖥️ Vídeo
-Preparé un video con la demo, espero que los motive a seguir jugando con el código y los estimule a hacer sus propios desarrollos.
+Preparé un video con la demo, espero que los motive a seguir jugando con el código y los estimule a hacer sus propios desarrollos:
+
+[![Watch the video](https://img.youtube.com/vi/UIVLMy12dWw/0.jpg)](https://youtu.be/UIVLMy12dWw)
+
